@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tonyjara
-- 👀 I’m interested in learning to collaborate.
 - 🌱 I’m constantly learning new tools.
-- 💞️ I love to collab, hit me up if you have interesting collab ideas.
+- 💞️ I love to collab, hit me up if you have interesting ideas.
 - 📫 Reach me on nytojara@gmail.com
 
 <!---
