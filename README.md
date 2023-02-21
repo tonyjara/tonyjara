@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tonyjara
-- 🌱 I’m constantly learning new tools.
-- 💞️ I love to collab, hit me up if you have interesting ideas.
 - 📫 Reach me on nytojara@gmail.com
 
 <!---
